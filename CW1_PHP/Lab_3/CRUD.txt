@@ -1,0 +1,23 @@
+CRUD Operations:
+
+Which type of CRUD operation would be needed for each of these functions? :
+---------------------------------------------------------------------------
+
+A user should be able to view a list of albums in the database . (CRUD operation = READ).
+
+A user should be able to view a list of tracks associated with a specific album. The tracks should be sorted by their track number, in ascending order. (CRUD operation = READ).
+
+A user should be able to add new tracks to the database. (CRUD operation = CREATE).
+
+A user should be able to delete tracks from the database. (CRUD operation = DELETE).
+
+
+
+Now identify some of the functional requirements of your own application : 
+--------------------------------------------------------------------------
+1. A user should be able to add products to database by inserting new data into the  table and therefore inserting data into database. (CREATE).
+2. A user should be able to view/read products that are associated with different categories for example : smartphones. Stored within the database. (READ).
+3. A user should be able to update their customer details to ensure up to date (accurate) data is being stored within the database. (UPDATE).
+4. A user should be able to delete items/products from the database when requested by the user themselves. (DELETE).
+
+

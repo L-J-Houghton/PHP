@@ -1,0 +1,11 @@
+REFERENCES:
+-----------
+Below are a list of references that I had used as a guide to build the web app. Also see other related references in appropriate php files.
+-------------------------------------------------------------------------------------------------------------------------------------------
+https://commons.wikimedia.org/wiki/File:Phone_Shiny_Icon.svg - (Creative Commons reference: Iphone.png).
+
+http://gitlab.doc.gold.ac.uk/data-networks-web/lab-exercises-term-2/tree/master/coursework-blog - (Used as a guide to refer to building an MVC web app step by step).
+
+http://www.fontspace.com/sorkin-type/merriweather-sans - (Used font file , see OFL license).
+
+https://www.w3schools.com/css/ - (Used as a CSS3 reference guide for goldbuy.css).
